@@ -7,7 +7,7 @@ Due:  Tuesday, September 22, 11:59PM MDT
 You will need to download the dataset using the `wget` command.
 
 ```
-$ wget http :// files . grouplens .org/ datasets / movielens /ml -100 k. zip
+$ wget http://files.grouplens.org/datasets/movielens/ml-100k.zip
 ```
 
 Do NOT include this dataset in your repo when you commit/push it.  
