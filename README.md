@@ -1,6 +1,6 @@
 # ECE 1400 Fall 2020 HW 03
 
-Due:  Tuesday, September 22, 11:59PM MDT
+Due:  Friday, February 12, 11:59PM MDT
 
 ## Additional instructions
 
